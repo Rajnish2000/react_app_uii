@@ -1,0 +1,14 @@
+step->1: first go to the project directory.
+step->2: git init
+step->3: git add .
+step->4: git commit -m "first commit"
+step->5: git status 
+step->6: git log
+step->7: create a new repository in your git hub account.
+step->8: git remote add origin "URL".
+step->9: git branch -M main 
+step->10: git push -u origin main.
+step->11: git status.
+step->12: for any changes do step 4.
+step->13: End.
+
